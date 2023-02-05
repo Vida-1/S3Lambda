@@ -1,0 +1,33 @@
+{ 
+  "shipImages": [
+    {
+      "ImgId": 1,
+      "name":"USS Defiant",
+      "img": "./defiant.jpg"
+    },
+
+    {
+      "ImgId": 2,
+      "name":"USS Voyager",
+      "img":"./voyager.jpg"
+    },
+    
+    {
+      "ImgId": 3,
+      "name":"USS Enterprise",
+      "img":"./enterprise.jpg"
+    },
+    
+    {
+      "ImgId": 4,
+      "name":"USS Enterprise-E",
+      "img":"./enterpirse-e.jpg"
+    },
+    
+    {
+      "ImgId": 5,
+      "name":"USS Excelsior",
+      "img":"./excelsior.jpg"
+    }
+  ]
+}

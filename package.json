@@ -1,0 +1,22 @@
+{
+  "name": "s3lambda",
+  "version": "1.0.0",
+  "description": "## Project: S3Lambda",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vida-1/S3Lambda.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vida-1/S3Lambda/issues"
+  },
+  "homepage": "https://github.com/Vida-1/S3Lambda#readme",
+  "dependencies": {
+    "jest": "^29.4.1"
+  }
+}
