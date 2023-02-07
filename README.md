@@ -47,4 +47,7 @@ i.e.
 
 #### UML
 
-![Whiteboard_1stDraft](lab17_1stDraft_Whiteboard.jpg)
+ ![Whiteboard_3rdDraft](lab17_3rdDraft_Whiteboard.jpg)
+* [Whiteboard_2ndDraft](lab17_2ndDraft_Whiteboard.jpg)
+* [Whiteboard_1stDraft](lab17_1stDraft_Whiteboard.jpg)
+
