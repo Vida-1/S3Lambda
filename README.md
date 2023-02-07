@@ -37,17 +37,17 @@ i.e.
 
 - e.g. `npm start`
 
-#### How to use your library (where applicable)
+#### How to use your lambda
 
-#### Tests
+Follow this link: https://vidap-lab17-images.s3.amazonaws.com/images.json
 
-- How do you run tests?
-- Any tests of note?
-- Describe any tests that you did not complete, skipped, etc
+#### Any Issues Encountered
+* I got turned around multiple times near the end trying to get this to work. I think it finally di
 
 #### UML
 
  ![Whiteboard_3rdDraft](lab17_3rdDraft_Whiteboard.jpg)
+* [Snip of images.json](lab17_imagesJson.jpg)
 * [Whiteboard_2ndDraft](lab17_2ndDraft_Whiteboard.jpg)
 * [Whiteboard_1stDraft](lab17_1stDraft_Whiteboard.jpg)
 
